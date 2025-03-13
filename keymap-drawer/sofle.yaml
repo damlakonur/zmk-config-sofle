@@ -17,10 +17,10 @@ layers:
   - F10
   - F11
   - RAI
-  - RGB ON
-  - RGB OFF
-  - {t: '$$mdi:led-on$$', h: '$$mdi:toggle-switch$$', s: '$$mdi:led-outline$$', type: toggle}
-  - '4'
+  - '&bl BL_TOG'
+  - '&bl BL_INC'
+  - '&bl BL_CYCLE'
+  - '&bl BL_ON'
   - '5'
   - '6'
   - '7'
